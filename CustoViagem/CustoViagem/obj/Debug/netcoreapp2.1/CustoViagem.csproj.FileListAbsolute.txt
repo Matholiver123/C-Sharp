@@ -1,0 +1,11 @@
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\obj\Debug\netcoreapp2.1\CustoViagem.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\obj\Debug\netcoreapp2.1\CustoViagem.AssemblyInfoInputs.cache
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\obj\Debug\netcoreapp2.1\CustoViagem.AssemblyInfo.cs
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\bin\Debug\netcoreapp2.1\CustoViagem.deps.json
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\bin\Debug\netcoreapp2.1\CustoViagem.runtimeconfig.json
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\bin\Debug\netcoreapp2.1\CustoViagem.runtimeconfig.dev.json
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\bin\Debug\netcoreapp2.1\CustoViagem.dll
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\bin\Debug\netcoreapp2.1\CustoViagem.pdb
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\obj\Debug\netcoreapp2.1\CustoViagem.csprojAssemblyReference.cache
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\obj\Debug\netcoreapp2.1\CustoViagem.dll
+C:\Users\Aluno.LAB1MAQ02\source\repos\CustoViagem\CustoViagem\obj\Debug\netcoreapp2.1\CustoViagem.pdb

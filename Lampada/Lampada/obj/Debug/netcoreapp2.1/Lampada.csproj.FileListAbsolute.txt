@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\Lampada\Lampada\bin\Debug\netcoreapp2.1\Lampada.deps.json
+C:\Users\Aluno\source\repos\Lampada\Lampada\bin\Debug\netcoreapp2.1\Lampada.runtimeconfig.json
+C:\Users\Aluno\source\repos\Lampada\Lampada\bin\Debug\netcoreapp2.1\Lampada.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\Lampada\Lampada\bin\Debug\netcoreapp2.1\Lampada.dll
+C:\Users\Aluno\source\repos\Lampada\Lampada\bin\Debug\netcoreapp2.1\Lampada.pdb
+C:\Users\Aluno\source\repos\Lampada\Lampada\obj\Debug\netcoreapp2.1\Lampada.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Lampada\Lampada\obj\Debug\netcoreapp2.1\Lampada.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Lampada\Lampada\obj\Debug\netcoreapp2.1\Lampada.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Lampada\Lampada\obj\Debug\netcoreapp2.1\Lampada.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Lampada\Lampada\obj\Debug\netcoreapp2.1\Lampada.dll
+C:\Users\Aluno\source\repos\Lampada\Lampada\obj\Debug\netcoreapp2.1\Lampada.pdb

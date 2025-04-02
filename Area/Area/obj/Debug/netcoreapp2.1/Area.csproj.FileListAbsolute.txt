@@ -1,0 +1,10 @@
+C:\Users\Aluno.LAB1MAQ02\source\repos\Area\Area\bin\Debug\netcoreapp2.1\Area.deps.json
+C:\Users\Aluno.LAB1MAQ02\source\repos\Area\Area\bin\Debug\netcoreapp2.1\Area.runtimeconfig.json
+C:\Users\Aluno.LAB1MAQ02\source\repos\Area\Area\bin\Debug\netcoreapp2.1\Area.runtimeconfig.dev.json
+C:\Users\Aluno.LAB1MAQ02\source\repos\Area\Area\bin\Debug\netcoreapp2.1\Area.dll
+C:\Users\Aluno.LAB1MAQ02\source\repos\Area\Area\bin\Debug\netcoreapp2.1\Area.pdb
+C:\Users\Aluno.LAB1MAQ02\source\repos\Area\Area\obj\Debug\netcoreapp2.1\Area.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.LAB1MAQ02\source\repos\Area\Area\obj\Debug\netcoreapp2.1\Area.AssemblyInfoInputs.cache
+C:\Users\Aluno.LAB1MAQ02\source\repos\Area\Area\obj\Debug\netcoreapp2.1\Area.AssemblyInfo.cs
+C:\Users\Aluno.LAB1MAQ02\source\repos\Area\Area\obj\Debug\netcoreapp2.1\Area.dll
+C:\Users\Aluno.LAB1MAQ02\source\repos\Area\Area\obj\Debug\netcoreapp2.1\Area.pdb

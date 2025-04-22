@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\VetoresArrays\obj\Debug\netcoreapp2.1\VetoresArrays.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\VetoresArrays\obj\Debug\netcoreapp2.1\VetoresArrays.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\VetoresArrays\obj\Debug\netcoreapp2.1\VetoresArrays.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\VetoresArrays\obj\Debug\netcoreapp2.1\VetoresArrays.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\VetoresArrays\bin\Debug\netcoreapp2.1\VetoresArrays.deps.json
+C:\Users\Aluno\source\repos\VetoresArrays\bin\Debug\netcoreapp2.1\VetoresArrays.runtimeconfig.json
+C:\Users\Aluno\source\repos\VetoresArrays\bin\Debug\netcoreapp2.1\VetoresArrays.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\VetoresArrays\bin\Debug\netcoreapp2.1\VetoresArrays.dll
+C:\Users\Aluno\source\repos\VetoresArrays\bin\Debug\netcoreapp2.1\VetoresArrays.pdb
+C:\Users\Aluno\source\repos\VetoresArrays\obj\Debug\netcoreapp2.1\VetoresArrays.dll
+C:\Users\Aluno\source\repos\VetoresArrays\obj\Debug\netcoreapp2.1\VetoresArrays.pdb

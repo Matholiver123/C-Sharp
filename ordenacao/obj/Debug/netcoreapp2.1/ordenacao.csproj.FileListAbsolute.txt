@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\ordenacao\bin\Debug\netcoreapp2.1\ordenacao.deps.json
+C:\Users\Aluno\source\repos\ordenacao\bin\Debug\netcoreapp2.1\ordenacao.runtimeconfig.json
+C:\Users\Aluno\source\repos\ordenacao\bin\Debug\netcoreapp2.1\ordenacao.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\ordenacao\bin\Debug\netcoreapp2.1\ordenacao.dll
+C:\Users\Aluno\source\repos\ordenacao\bin\Debug\netcoreapp2.1\ordenacao.pdb
+C:\Users\Aluno\source\repos\ordenacao\obj\Debug\netcoreapp2.1\ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ordenacao\obj\Debug\netcoreapp2.1\ordenacao.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ordenacao\obj\Debug\netcoreapp2.1\ordenacao.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ordenacao\obj\Debug\netcoreapp2.1\ordenacao.dll
+C:\Users\Aluno\source\repos\ordenacao\obj\Debug\netcoreapp2.1\ordenacao.pdb

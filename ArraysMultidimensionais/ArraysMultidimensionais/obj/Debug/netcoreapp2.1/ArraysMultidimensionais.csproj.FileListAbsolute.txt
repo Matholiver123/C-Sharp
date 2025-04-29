@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\netcoreapp2.1\ArraysMultidimensionais.deps.json
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\netcoreapp2.1\ArraysMultidimensionais.runtimeconfig.json
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\netcoreapp2.1\ArraysMultidimensionais.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\netcoreapp2.1\ArraysMultidimensionais.dll
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\bin\Debug\netcoreapp2.1\ArraysMultidimensionais.pdb
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\netcoreapp2.1\ArraysMultidimensionais.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\netcoreapp2.1\ArraysMultidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\netcoreapp2.1\ArraysMultidimensionais.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\netcoreapp2.1\ArraysMultidimensionais.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\netcoreapp2.1\ArraysMultidimensionais.dll
+C:\Users\Aluno\source\repos\ArraysMultidimensionais\ArraysMultidimensionais\obj\Debug\netcoreapp2.1\ArraysMultidimensionais.pdb

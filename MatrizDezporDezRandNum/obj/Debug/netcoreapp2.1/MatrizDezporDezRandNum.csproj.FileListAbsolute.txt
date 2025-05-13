@@ -1,0 +1,11 @@
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\bin\Debug\netcoreapp2.1\MatrizDezporDezRandNum.deps.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\bin\Debug\netcoreapp2.1\MatrizDezporDezRandNum.runtimeconfig.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\bin\Debug\netcoreapp2.1\MatrizDezporDezRandNum.runtimeconfig.dev.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\bin\Debug\netcoreapp2.1\MatrizDezporDezRandNum.dll
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\bin\Debug\netcoreapp2.1\MatrizDezporDezRandNum.pdb
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\obj\Debug\netcoreapp2.1\MatrizDezporDezRandNum.csprojAssemblyReference.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\obj\Debug\netcoreapp2.1\MatrizDezporDezRandNum.csproj.CoreCompileInputs.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\obj\Debug\netcoreapp2.1\MatrizDezporDezRandNum.AssemblyInfoInputs.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\obj\Debug\netcoreapp2.1\MatrizDezporDezRandNum.AssemblyInfo.cs
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\obj\Debug\netcoreapp2.1\MatrizDezporDezRandNum.dll
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MatrizDezporDezRandNum\obj\Debug\netcoreapp2.1\MatrizDezporDezRandNum.pdb

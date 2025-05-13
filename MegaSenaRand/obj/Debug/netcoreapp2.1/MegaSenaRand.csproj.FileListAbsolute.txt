@@ -1,0 +1,11 @@
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\bin\Debug\netcoreapp2.1\MegaSenaRand.deps.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\bin\Debug\netcoreapp2.1\MegaSenaRand.runtimeconfig.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\bin\Debug\netcoreapp2.1\MegaSenaRand.runtimeconfig.dev.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\bin\Debug\netcoreapp2.1\MegaSenaRand.dll
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\bin\Debug\netcoreapp2.1\MegaSenaRand.pdb
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\obj\Debug\netcoreapp2.1\MegaSenaRand.csprojAssemblyReference.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\obj\Debug\netcoreapp2.1\MegaSenaRand.csproj.CoreCompileInputs.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\obj\Debug\netcoreapp2.1\MegaSenaRand.AssemblyInfoInputs.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\obj\Debug\netcoreapp2.1\MegaSenaRand.AssemblyInfo.cs
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\obj\Debug\netcoreapp2.1\MegaSenaRand.dll
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\MegaSenaRand\obj\Debug\netcoreapp2.1\MegaSenaRand.pdb

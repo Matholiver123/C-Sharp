@@ -1,0 +1,11 @@
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\obj\Debug\netcoreapp2.1\ClasseBase.csprojAssemblyReference.cache
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\obj\Debug\netcoreapp2.1\ClasseBase.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\obj\Debug\netcoreapp2.1\ClasseBase.AssemblyInfoInputs.cache
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\obj\Debug\netcoreapp2.1\ClasseBase.AssemblyInfo.cs
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\bin\Debug\netcoreapp2.1\ClasseBase.deps.json
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\bin\Debug\netcoreapp2.1\ClasseBase.runtimeconfig.json
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\bin\Debug\netcoreapp2.1\ClasseBase.runtimeconfig.dev.json
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\bin\Debug\netcoreapp2.1\ClasseBase.dll
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\bin\Debug\netcoreapp2.1\ClasseBase.pdb
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\obj\Debug\netcoreapp2.1\ClasseBase.dll
+C:\Users\Aluno.LAB1MAQ02\source\repos\ClasseBase\ClasseBase\obj\Debug\netcoreapp2.1\ClasseBase.pdb

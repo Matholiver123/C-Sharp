@@ -1,0 +1,11 @@
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\bin\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.deps.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\bin\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.runtimeconfig.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\bin\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.runtimeconfig.dev.json
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\bin\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.dll
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\bin\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.pdb
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\obj\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.csproj.CoreCompileInputs.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\obj\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.AssemblyInfoInputs.cache
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\obj\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.AssemblyInfo.cs
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\obj\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.dll
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\obj\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.pdb
+D:\etecParqueBelem\terceiroModulo\SWII\aula06Mai25\CorrecaoArrayMultidimensional\obj\Debug\netcoreapp2.1\CorrecaoArrayMultidimensional.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\bin\Debug\netcoreapp2.1\ContaCorrente1.deps.json
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\bin\Debug\netcoreapp2.1\ContaCorrente1.runtimeconfig.json
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\bin\Debug\netcoreapp2.1\ContaCorrente1.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\bin\Debug\netcoreapp2.1\ContaCorrente1.dll
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\bin\Debug\netcoreapp2.1\ContaCorrente1.pdb
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\obj\Debug\netcoreapp2.1\ContaCorrente1.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\obj\Debug\netcoreapp2.1\ContaCorrente1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\obj\Debug\netcoreapp2.1\ContaCorrente1.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\obj\Debug\netcoreapp2.1\ContaCorrente1.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\obj\Debug\netcoreapp2.1\ContaCorrente1.dll
+C:\Users\Aluno\source\repos\ContaCorrente1\ContaCorrente1\obj\Debug\netcoreapp2.1\ContaCorrente1.pdb
